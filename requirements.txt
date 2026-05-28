@@ -1,0 +1,3 @@
+# Este laboratorio usa solo librerias estandar de Python.
+# No es obligatorio instalar paquetes externos.
+# Si el docente desea extender el proyecto, puede agregar pandas o matplotlib.
