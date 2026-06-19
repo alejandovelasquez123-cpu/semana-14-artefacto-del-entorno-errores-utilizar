@@ -1,0 +1,12 @@
+REPORTE RURAL AUTOMATICO
+===================================
+
+Resumen por producto:
+- huevo: cantidad total = 126.00, ingreso estimado = $90090821.00, registros = 1691
+- yuca: cantidad total = 107.46, ingreso estimado = $287974698.94, registros = 1596
+- maiz: cantidad total = 85.53, ingreso estimado = $525637563.97, registros = 1656
+- leche: cantidad total = 22.53, ingreso estimado = $101568372.66, registros = 1640
+- queso: cantidad total = 20.96, ingreso estimado = $285393394.47, registros = 1617
+
+Finca con mayor ingreso estimado: La Esperanza ($223746671.36)
+Registros invalidos detectados: 5
